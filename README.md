@@ -5,10 +5,10 @@ Documentation for the embedded Lua VM for Melan.
 ## Contents
 
 - [Environment](./environment.md)
-- [mem](./mem.md)
-- [rbx](./rbx.md)
-- [ui](./ui.md)
-- [off](./off.md)
+- [Memory](./mem.md)
+- [Roblox](./rbx.md)
+- [User Interface](./ui.md)
+- [Offsets](./off.md)
 - [Examples](./examples.md)
 
 ## Quick Example
