@@ -23,4 +23,3 @@ for i, child in ipairs(children) do
     print(i, rbx.name(child), rbx.classname(child))
 end
 ```
-
