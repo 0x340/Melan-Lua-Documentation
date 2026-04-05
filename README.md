@@ -1,8 +1,6 @@
 # Melan Lua VM
 
-Documentation for the embedded Lua VM exposed by Melan.
-
-This VM is a lightweight external scripting runtime built on standard Lua 5.4 with custom bindings for memory access, Roblox instance traversal, and simple UI widgets. It is not a Luau executor and it does not expose normal Roblox object syntax such as `workspace:GetChildren()` or `Vector3.new(...)`.
+Documentation for the embedded Lua VM for Melan.
 
 ## Contents
 
