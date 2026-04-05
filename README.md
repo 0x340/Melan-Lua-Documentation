@@ -4,7 +4,6 @@ Documentation for the embedded Lua VM for Melan.
 
 ## Contents
 
-- [Getting Started](./getting-started.md)
 - [Environment](./environment.md)
 - [mem](./mem.md)
 - [rbx](./rbx.md)
